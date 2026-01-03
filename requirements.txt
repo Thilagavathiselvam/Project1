@@ -1,0 +1,9 @@
+Flask==2.2.5
+Werkzeug==2.1.2
+pandas
+numpy
+scikit-learn
+plotly
+sqlalchemy
+flask_sqlalchemy
+python-dotenv
